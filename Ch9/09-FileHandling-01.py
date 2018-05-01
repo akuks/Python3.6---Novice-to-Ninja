@@ -23,3 +23,5 @@ fh = open(fileName, 'r')
 
 for line in fh:
     print(line)
+
+    
